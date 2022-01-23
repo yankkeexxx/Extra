@@ -6,6 +6,28 @@
             "sirname": "Alekseev",
             "photo_url": "https://anime-online.su/uploads/posts/2021-10/1633454321_2.jpg",
             "balance": 300
+        },
+    
+        {
+            "id": 2,
+            "name": "Vova",
+            "sirname": "Brat",
+            "photo_url": "https://anime-online.su/uploads/posts/2021-10/1633454321_2.jpg",
+            "balance": 899
+        },
+        {
+            "id": 3,
+            "name": "Sanya",
+            "sirname": "Zhmuh",
+            "photo_url": "https://anime-online.su/uploads/posts/2021-10/1633454321_2.jpg",
+            "balance": 33
         }
+
+
+
+
     ]
+
+
+
 }
